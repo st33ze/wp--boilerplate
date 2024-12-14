@@ -11,7 +11,7 @@ A lightweight and customizable Webpack boilerplate to kickstart projects with mo
 ### Quick start
 Clone the repository:
 ```
-git clone https://github.com/st33ze/webpack-boilerplate.git
+git clone https://github.com/st33ze/wp-boilerplate.git
 ```
 Install and update dependencies:
 ```

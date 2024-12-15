@@ -7,6 +7,7 @@ A lightweight and customizable Webpack boilerplate to kickstart projects with mo
 - CSS support via ```css-loader``` and ```style-loader```
 - Developement server with hot reloading using ```webpack-dev-server```
 - Easily extandable for additional loaders and plugins
+- CSS starting template with reset and variables
 
 ### Quick start
 Clone the repository:
